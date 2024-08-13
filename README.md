@@ -4,7 +4,7 @@
 * BE je napsaný v Javě (Spring Boot) napojený na FE v JavaScript(React)
 * Databáze se při startu projketu sama vytvoří(hibernate). Případně lze DB s předpřipravenými daty naimportovat (invoicedatabase.sql)
 * Veškerá data v přiložené databázi jsou zcela fiktivní
-* 
+  
 * [Klient ke stažení zde](https://github.com/Pechy32/Project-JavaPro-client-)
   
 * Autor: Tomáš Pecháček [www.pechy32.cz](https://pechy32.cz)
